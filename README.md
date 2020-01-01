@@ -1,4 +1,4 @@
-# Ruthere
+# R u there?
 
 Quick data cleaning script for Facebook digital marketing project @ https://www.facebook.com/ruthereUM/
 
